@@ -22,7 +22,7 @@ This is a **Simple Calculator** created using HTML, CSS, and JavaScript. It can 
 ## Project Setup
 - Download the project or clone it using:
   ```bash
-  git clone https://github.com/Rakshita-tech/Simple_Calclator.git
+  git clone https://github.com/Rakshita-tech/Simple_Calculator.git
 
 
 ### Step 4: **Save and Preview**
